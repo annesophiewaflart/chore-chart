@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Isadora Duncan",
+        "birthDate": "27/04/1877",
+        "Nationality": "American"
+        
+ },
+ {
+        "name": "Katherine Dunham",
+        "birthDate": "24/05/1909",
+        "Nationality": "American"
+        },
+  
+  {
+        "name": "Charles Weidman",
+        "birthDate": "22/07/1901",
+        "Nationality": "American"
+     }
+        ]    
+
