@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Simple JSON example</title>
+  </head>
+
+  <body>
+
+    <script>
+      const dancers = {
+{
+  "squadName": "The greatest contemporary dancers of all time",
+  "Country": "The United States of America",
+  "formed": "the 20th century",
+  "active": true,
+  "members": [
+    {
+      "name": "Isadora Duncan",
+      "birthdate": "27/04/1877,
+      "deathdate": "14/09/1927",
+      ]
+    },
+    {
+      "name": "Katherine Dunham",
+      "birthdate": "24/05/1909",
+      "deathdate": "21/05/2006",
+      ]
+    },
+    {
+      "name": "Charles Weidman",
+      "birthdate": "22/07/1901",
+      "deathdate": "15/07/1975",
+      ]
+    }
+  ]
+}
+
+  </script>
+  </body>
+</html>
